@@ -23,4 +23,4 @@ O protótipo de interface desenvolvido para este trabalho está disponível no F
 ## Autor
 
 Leonardo Camargo  
-Curso de Sistemas de Informação – UNIFACCAMP
+Curso Ciencia da Computação – UNIFACCAMP
