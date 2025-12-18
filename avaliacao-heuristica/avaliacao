@@ -1,0 +1,20 @@
+# Avaliação Heurística de Usabilidade
+
+Este documento apresenta um resumo da avaliação heurística realizada no sistema de controle de estoque,
+com base nas heurísticas de Nielsen e nos princípios da norma ISO 9241-110.
+
+## Principais problemas identificados
+
+- Excesso de elementos visuais e informações redundantes, comprometendo a clareza da interface.
+- Repetição de mensagens técnicas irrelevantes para a execução das tarefas.
+- Dependência de teclas de função para ações essenciais, exigindo memorização constante.
+- Baixa visibilidade do status do sistema durante operações críticas.
+- Dificuldade de localizar funções devido à ausência de agrupamento lógico.
+
+## Soluções propostas
+
+- Reorganização do layout com aplicação de princípios de design minimalista.
+- Remoção de elementos redundantes e informações técnicas desnecessárias.
+- Inclusão de botões visuais com rótulos claros para ações principais.
+- Destaque permanente de informações relevantes, como totais e alertas de estoque crítico.
+- Organização das funções em categorias visuais consistentes.
